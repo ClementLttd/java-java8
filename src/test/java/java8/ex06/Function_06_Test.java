@@ -29,6 +29,7 @@ public class Function_06_Test {
         String result = formatAge(null);
 
         assert result.equals("[age=35]");
+        
     }
 
 }

@@ -15,5 +15,6 @@ public class Data {
                 new Person("Armor", "France", 25, "pass")
         );
 
+        
     }
 }

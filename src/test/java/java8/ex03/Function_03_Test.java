@@ -34,5 +34,6 @@ public class Function_03_Test {
         assert child.getAge().equals(0);
         assert child.getPassword() == null;
     }
+    
 
 }

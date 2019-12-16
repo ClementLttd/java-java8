@@ -23,6 +23,7 @@ public class Function_01_Test {
     // TODO le mot de passe sera de la forme "pass_<ENTIER>"
     private Function<Integer, Person> intToPerson = null;
     // end::intToPerson[]
+    
 
     @Test
     public void test_intToPerson() throws Exception {

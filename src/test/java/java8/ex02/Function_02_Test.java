@@ -28,6 +28,7 @@ public class Function_02_Test {
         assert account.getOwner().getLastname().equals("France");
         assert account.getOwner().getAge().equals(80);
         assert account.getOwner().getPassword().equals("pass");
+        
     }
 
 

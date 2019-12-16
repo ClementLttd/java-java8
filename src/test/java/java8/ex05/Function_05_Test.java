@@ -40,6 +40,7 @@ public class Function_05_Test {
         for(Person p : personList) {
             verifyAge.accept(p);
             verifyPassword.accept(p);
+            
         }
     }
 }
