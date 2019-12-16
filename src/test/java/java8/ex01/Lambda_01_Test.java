@@ -12,6 +12,7 @@ import java.util.List;
  * Exercice 01 - Filter
  */
 public class Lambda_01_Test {
+	
 
     // tag::PersonPredicate[]
     interface PersonPredicate {

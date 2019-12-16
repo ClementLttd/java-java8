@@ -14,6 +14,7 @@ import java.util.List;
  */
 public class Lambda_02_Test {
 
+	
     // tag::PersonToAccountMapper[]
     interface PersonToAccountMapper {
         Account map(Person p);
