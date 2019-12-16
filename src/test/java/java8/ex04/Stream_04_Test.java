@@ -21,7 +21,7 @@ public class Stream_04_Test {
         assertThat(result.toArray(), arrayContaining("Alexandra", "Cyril", "Johnny", "Marion", "Sophie"));
     }
 
-    @Test
+    @Test 
     public void test_builder() throws Exception {
 
         // TODO compléter pour rendre le test passant

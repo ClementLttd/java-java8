@@ -28,7 +28,7 @@ public class Stream_05_Test {
             result += i;
         }
         return result;
-    }
+    } 
 
     // TODO compléter la méthode iterateSum
     // TODO utiliser la méthode Stream.iterate

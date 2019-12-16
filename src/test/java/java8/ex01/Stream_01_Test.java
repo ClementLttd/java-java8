@@ -29,7 +29,7 @@ public class Stream_01_Test {
 
         assertThat(result, hasSize(3));
         assertThat(result, everyItem(hasProperty("price", anyOf(equalTo(1300), greaterThan(1300)))));
-    }
+    } 
 
     @Test
     public void test_stream_anyMatch() throws Exception {

@@ -4,7 +4,7 @@ public class Pizza {
     private Integer id;
     private String name;
     private Integer price;
-
+ 
     public Pizza() {
     }
 

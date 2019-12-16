@@ -27,5 +27,5 @@ public class Stream_02_Test {
         List<Customer> result = null;
 
         assertThat(result, hasSize(2));
-    }
+    } 
 }

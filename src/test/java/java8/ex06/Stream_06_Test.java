@@ -30,7 +30,7 @@ public class Stream_06_Test {
 
         private void add(long value) {
             total += value;
-        }
+        } 
     }
 
     // TODO compléter la méthode pour que le calcul de la somme soit fait avec une instance d'Accumulator

@@ -32,7 +32,7 @@ public class Stream_07_Test {
             if (duration < fastest) fastest = duration;
         }
         return fastest;
-    }
+    } 
 
     // TODO créer une fonction List<Pizza> -> List<Pizza>
     // TODO seules les pizzas ayant un prix >= 1000 sont conservées

@@ -36,7 +36,7 @@ public class Stream_08_Test {
             this.annee = annee;
             this.jour = jour;
             this.nombre = nombre;
-        }
+        } 
 
         public String getAnnee() {
             return annee;

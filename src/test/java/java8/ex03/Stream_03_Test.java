@@ -29,7 +29,7 @@ public class Stream_03_Test {
         String result = null;
 
         assertThat(result, is("Alexandra|Cyril|Johnny|Marion|Sophie"));
-    }
+    } 
 
     @Test
     public void test_grouping() throws Exception {
